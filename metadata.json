@@ -1,0 +1,8 @@
+{
+  "name": "Remix Relaunch BizPulse — Executive IT Coaching \u0026 Diagnostic OS",
+  "description": "Executive commercial business coaching, working capital triage, customer profitability matrix, and 90-day turnaround operating system for managed IT service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
